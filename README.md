@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edgarkhimich
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/edgar-khimich-95a0a6130/
 
 <!---
